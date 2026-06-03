@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Winter Melon & Pork Ribs Soup",
+    "chinese": "冬瓜排骨湯",
+    "ingredients": "Winter melon, pork ribs, dried tangerine peel, ginger, red dates",
+    "price": "$15",
+    "image": "/assets/soup1-winter-melon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chayote & Chestnut Soup",
+    "chinese": "合掌瓜栗子湯",
+    "ingredients": "Chayote, fresh chestnuts, pork, carrots, corn, wolfberries",
+    "price": "$15",
+    "image": "/assets/soup2-chayote-chestnut.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Morel Mushroom & Chicken Soup",
+    "chinese": "羊肚菌雞湯",
+    "ingredients": "Morel mushrooms, whole chicken, red dates, goji berries, ginger",
+    "price": "$18",
+    "image": "/assets/soup3-morel-mushroom.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Five Leaf Fig & Pork Soup",
+    "chinese": "五指毛桃豬骨湯",
+    "ingredients": "Five-finger peach root, pork bones, dried figs, corn, carrot",
+    "price": "$15",
+    "image": "/assets/soup4-five-leaf-fig.jpg"
+  }
+]
