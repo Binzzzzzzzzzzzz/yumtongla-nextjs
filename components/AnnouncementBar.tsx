@@ -24,7 +24,7 @@ export default function AnnouncementBar() {
       display: "flex", justifyContent: "center", alignItems: "center",
       padding: "10px 24px", position: "relative", fontSize: "0.9rem", fontWeight: 500,
     }}>
-      <p>🚚 Free delivery on orders over $60 · 訂單滿$60免費送貨 · Toronto area only</p>
+      <p>🚚 Free delivery · 免費送貨 · Toronto area only</p>
       <button onClick={dismiss} aria-label="Close" style={{
         position: "absolute", right: 16, background: "none", border: "none",
         color: "#fff", fontSize: "1rem", cursor: "pointer", opacity: 0.7, lineHeight: 1,
