@@ -38,7 +38,7 @@ export default function HowToOrder() {
 
         <div style={{ textAlign: "center", background: "#FFF0F0", border: "1px solid #FFD0D0", borderRadius: 12, padding: "20px 32px" }}>
           <p style={{ color: "#C41E3A", fontSize: "0.95rem", lineHeight: 1.6 }}>
-            📦 Free delivery on orders over $60 · 訂單滿$60免費送貨 · Delivery available in Toronto area
+            📦 Free delivery · 免費送貨 · Delivery available in Toronto area
           </p>
         </div>
       </div>
